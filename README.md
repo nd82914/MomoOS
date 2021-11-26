@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mikanos
 MikanOS: An Educational Operating System
 
@@ -6,3 +7,6 @@ MikanOS: An Educational Operating System
 - MikanLoaderPkg
     - The MikanOS loader as a UEFI Application
     
+=======
+# MomoOS
+>>>>>>> origin/main
